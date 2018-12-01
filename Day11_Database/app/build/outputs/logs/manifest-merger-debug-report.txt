@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8810c4295c0614fe3518a4aeb36a39e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\28bfddbe0a06970e9ccb4bc87529f68b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\27d641cc92d6b5a5aaa39eb5ce7a5d54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1675603c8a65d2330411b17fa17de68d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2eb1983f553e1d37e507f813706adab2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\33de91a7c39a0beadeb2f1e664609ab5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd88ca334129ba55d5dec24958581ab4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9c331c5dc9d8018fb597e04284d7269c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\069d5b041da76f09e362641a561e8d3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\140e14608cf6b6e998cf0130a4d5e283\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\57e9b6cb47194226be5966ccf1909727\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\293d6144e81a9f5dc0f792c0f9a0e826\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0ee28f89d6ac53ba7f228961fceef3f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b34c10371a7d22fe985652c6d6a9647b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\53124699b0eece606523271ac1410ab4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1dfc21f1603a1d148116dab3f4a6bc58\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4a9d7e1d617eb2f2a9e61a5671d5787b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b6f559c1096e211a2c777378a1beecf9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5e0007f19d8c50cdceb99593cbf7e7f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9bbd0204c2b37d07ba9940682cfe7c73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3e141f9b4556cc1b57f374f0da17fdb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\857225c94ed181b934f5c82770346df7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\97f206658e4f0e6462dbd1d5e22abe53\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e84b286e20ec97ac4ce9822df84367de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\efd023bf3d002db65506856aea79ec9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\159af5af315e51e0c66ffa4eae7de898\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4be96350ea720b0d1f980e20bf5af74a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\28bfddbe0a06970e9ccb4bc87529f68b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\28bfddbe0a06970e9ccb4bc87529f68b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1dfc21f1603a1d148116dab3f4a6bc58\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1dfc21f1603a1d148116dab3f4a6bc58\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4a9d7e1d617eb2f2a9e61a5671d5787b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4a9d7e1d617eb2f2a9e61a5671d5787b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1dfc21f1603a1d148116dab3f4a6bc58\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.phongnt.day11_database.MainActivity
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.phongnt.day11_database.MyPreferenceActivity
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:21:9-58
+	android:name
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:21:19-55
+activity#com.phongnt.day11_database.PhongNTPreferenceActivity
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:22:19-60
+activity#com.phongnt.day11_database.MyFileActivity
+ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml:23:19-49
+uses-sdk
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8810c4295c0614fe3518a4aeb36a39e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8810c4295c0614fe3518a4aeb36a39e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\28bfddbe0a06970e9ccb4bc87529f68b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\28bfddbe0a06970e9ccb4bc87529f68b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\27d641cc92d6b5a5aaa39eb5ce7a5d54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\27d641cc92d6b5a5aaa39eb5ce7a5d54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1675603c8a65d2330411b17fa17de68d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\1675603c8a65d2330411b17fa17de68d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2eb1983f553e1d37e507f813706adab2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2eb1983f553e1d37e507f813706adab2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\33de91a7c39a0beadeb2f1e664609ab5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\33de91a7c39a0beadeb2f1e664609ab5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd88ca334129ba55d5dec24958581ab4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cd88ca334129ba55d5dec24958581ab4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9c331c5dc9d8018fb597e04284d7269c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9c331c5dc9d8018fb597e04284d7269c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\069d5b041da76f09e362641a561e8d3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\069d5b041da76f09e362641a561e8d3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\140e14608cf6b6e998cf0130a4d5e283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\140e14608cf6b6e998cf0130a4d5e283\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\57e9b6cb47194226be5966ccf1909727\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\57e9b6cb47194226be5966ccf1909727\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\293d6144e81a9f5dc0f792c0f9a0e826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\293d6144e81a9f5dc0f792c0f9a0e826\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0ee28f89d6ac53ba7f228961fceef3f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0ee28f89d6ac53ba7f228961fceef3f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b34c10371a7d22fe985652c6d6a9647b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b34c10371a7d22fe985652c6d6a9647b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\53124699b0eece606523271ac1410ab4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\53124699b0eece606523271ac1410ab4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1dfc21f1603a1d148116dab3f4a6bc58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1dfc21f1603a1d148116dab3f4a6bc58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4a9d7e1d617eb2f2a9e61a5671d5787b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4a9d7e1d617eb2f2a9e61a5671d5787b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b6f559c1096e211a2c777378a1beecf9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b6f559c1096e211a2c777378a1beecf9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5e0007f19d8c50cdceb99593cbf7e7f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5e0007f19d8c50cdceb99593cbf7e7f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9bbd0204c2b37d07ba9940682cfe7c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9bbd0204c2b37d07ba9940682cfe7c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3e141f9b4556cc1b57f374f0da17fdb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3e141f9b4556cc1b57f374f0da17fdb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\857225c94ed181b934f5c82770346df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\857225c94ed181b934f5c82770346df7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\97f206658e4f0e6462dbd1d5e22abe53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\97f206658e4f0e6462dbd1d5e22abe53\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e84b286e20ec97ac4ce9822df84367de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e84b286e20ec97ac4ce9822df84367de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\efd023bf3d002db65506856aea79ec9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\efd023bf3d002db65506856aea79ec9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\159af5af315e51e0c66ffa4eae7de898\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\159af5af315e51e0c66ffa4eae7de898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4be96350ea720b0d1f980e20bf5af74a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\PhongNT\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4be96350ea720b0d1f980e20bf5af74a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PhongNT\Documents\CatTocDi_Mobile\Day11_Database\app\src\main\AndroidManifest.xml

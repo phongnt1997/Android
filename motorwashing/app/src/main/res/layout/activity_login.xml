@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="132dp"
+        android:layout_height="109dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/car_wash_icon_fpt_blue_logo" />
+
+    <EditText
+        android:id="@+id/edtPhone"
+        android:layout_width="300dp"
+        android:layout_height="55dp"
+        android:drawableLeft="@drawable/phone"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:background="@drawable/layout_edittext"
+        android:ems="10"
+        android:drawablePadding="10dp"
+        android:paddingLeft="20dp"
+        android:hint="Phone Number"
+        android:inputType="phone">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_width="300dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="20dp"
+        android:drawableLeft="@drawable/password"
+        android:background="@drawable/layout_edittext"
+        android:ems="10"
+        android:layout_gravity="center"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingLeft="10dp" />
+
+    <Button
+        android:id="@+id/button"
+        style="@android:style/Widget.DeviceDefault.Button.Small"
+        android:layout_width="300dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:background="@drawable/border_button"
+        android:onClick="clickToLogin"
+        android:text="Login"
+        android:textColor="#89d2f3"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/button2"
+        style="@android:style/Widget.DeviceDefault.Button.Small"
+        android:layout_width="300dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="16dp"
+        android:layout_gravity="center"
+        android:background="@drawable/border_button"
+        android:onClick="clickToRegister"
+        android:text="Register"
+        android:textColor="#89d2f3"
+        android:textStyle="bold" />
+
+</LinearLayout>

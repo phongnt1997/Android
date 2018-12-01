@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="6"
+
+    tools:context=".SignUpActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="84dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:gravity="center_horizontal"
+        android:text="SIGN UP"
+        android:textColor="#89d2f3"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edtPhone"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/layout_edittext"
+        android:drawableLeft="@drawable/phone"
+        android:drawablePadding="10dp"
+        android:ems="10"
+        android:hint="Phone Number"
+        android:inputType="phone"
+        android:paddingLeft="30dp"
+        android:textColor="#000000" />
+
+
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/layout_edittext"
+        android:drawableLeft="@drawable/password"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingLeft="20dp"
+        android:textColor="#000000" />
+
+
+    <EditText
+        android:id="@+id/edtConfirm"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/layout_edittext"
+        android:drawableLeft="@drawable/password"
+        android:ems="10"
+        android:hint="Confirm"
+        android:inputType="textPassword"
+        android:paddingLeft="20dp"
+        android:textColor="#000000" />
+
+
+    <EditText
+        android:id="@+id/edtFullname"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@drawable/layout_edittext"
+        android:drawableLeft="@drawable/fullname"
+        android:drawablePadding="10dp"
+        android:ems="10"
+        android:hint="Fullname"
+        android:inputType="textPersonName"
+        android:paddingLeft="30dp"
+        android:textColor="#000000"
+       />
+
+    <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+        android:id="@+id/spCarType"
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:hint="Car Type"
+        android:textColorHint="#05ab9a"
+        android:drawablePadding="10dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="30dp"
+        android:drawableLeft="@drawable/car"
+        app:met_floatingLabel="normal"
+        app:met_primaryColor="#6e9af9"
+        />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="306dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border_button"
+        android:text="Register"
+        android:textColor="#89d2f3"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="306dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="7dp"
+        android:gravity="center_horizontal"
+        android:text="Already having an account?"
+        android:textColor="#f00"
+        android:textSize="12dp"
+        app:layout_constraintBottom_toTopOf="@+id/button4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="306dp"
+        android:layout_height="50dp"
+        android:background="@drawable/border_button"
+        android:onClick="clickToLogin"
+        android:text="Login"
+        android:textColor="#89d2f3"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</LinearLayout>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent" android:background="#fff"
+android:layout_height="match_parent"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#33d22e"
+        android:text="Nice Car Store"
+        android:textSize="32dp"
+        android:textColor="#FFF"
+        android:textStyle="bold"
+        android:elevation="4dp"
+        android:gravity="center"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+<!-- Cover Image -->
+    <LinearLayout
+        android:id="@+id/arivateLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/toolbar"
+        android:orientation="vertical"
+        android:layout_alignParentLeft="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Current Customers"
+            android:layout_gravity="center"
+            android:padding="8dp"
+            android:elevation="4dp"
+            android:textColor="#000"
+            android:background="#fff"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rcvPending"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="#fff"
+                android:elevation="4dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true">
+
+            </android.support.v7.widget.RecyclerView>
+
+            <ImageView
+                android:id="@+id/toLeft"
+                android:layout_width="24dp"
+                android:layout_height="130dp"
+                android:elevation="8dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/ripple_btn_right"
+                android:src="@drawable/ic_left"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/toRight"
+                android:layout_width="24dp"
+                android:elevation="8dp"
+                android:layout_height="130dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/ripple_btn_left"
+                android:src="@drawable/ic_right" />
+
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+<android.support.v4.view.ViewPager
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/detail_pager"
+    android:layout_width="match_parent"
+    android:background="#fff"
+    android:elevation="6dp"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/arivateLayout"
+    >
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/detail_tab_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top" />
+</android.support.v4.view.ViewPager>
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:elevation="4dp"
+        android:background="#000"
+        android:src="@drawable/ic_menu"
+        android:clickable="true"
+        android:scaleType="center"
+        app:rippleColor="@android:color/holo_green_light" />
+    <net.cachapa.expandablelayout.ExpandableLayout
+        android:id="@+id/expand"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/floatingActionButton"
+        app:el_duration="300"
+        app:el_expanded="false"
+        app:el_parallax="1">
+        <include layout="@layout/float_button_expand_item" />
+    </net.cachapa.expandablelayout.ExpandableLayout>
+
+</RelativeLayout>

@@ -1,0 +1,4 @@
+#Fri Oct 12 16:58:50 ICT 2018
+base.0=C\:\\Users\\PhongNT\\Documents\\CatTocDi_Mobile\\Day11_Database\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

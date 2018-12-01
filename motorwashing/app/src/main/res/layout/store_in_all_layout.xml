@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="120dp"
+    android:layout_marginLeft="4dp"
+    android:layout_marginRight="4dp"
+    android:padding="4dp"
+    android:layout_marginTop="4dp"
+    android:background="@drawable/list_background">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="6"
+    android:layout_gravity="top"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/txtWashCarStoreName"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:gravity="left|center"
+        android:layout_gravity="top"
+        android:maxLines="2"
+        android:layout_marginLeft="6dp"
+        android:textStyle="bold"
+        android:text="TextView"
+        android:textSize="13dp" />
+
+    <TextView
+        android:id="@+id/txtWashCarStoreAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginLeft="6dp"
+        android:gravity="left|center"
+        android:layout_gravity="center"
+        android:maxLines="2"
+        android:text="TextView"
+        android:textSize="12dp" />
+    <Button
+        android:id="@+id/btnBook"
+        android:layout_width="40dp"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="2dp"
+        android:padding="4dp"
+        android:background="@drawable/status_background"
+        android:layout_gravity="left|bottom"
+        android:text="Book"
+        android:textSize="8dp"/>
+</LinearLayout>
+
+
+
+
+</LinearLayout>

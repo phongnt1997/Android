@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HistoryListActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="History Book Order"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#89d2f3"
+        android:gravity="center"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btnSelectDate"
+            android:layout_width="wrap_content"
+            android:background="@drawable/border_button"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:text="Select Date"
+            android:layout_marginLeft="35dp"/>
+        <TextView
+            android:id="@+id/lblDate"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textSize="16dp"
+            android:visibility="gone"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginLeft="45dp"/>
+        <Button
+            android:id="@+id/btnRemoveSelectDate"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/cancel"
+            android:visibility="gone"
+            android:layout_marginLeft="5dp"
+            android:onClick="clickToRemoveSelectDate"/>
+        <Spinner
+            android:id="@+id/spType"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:hint="Type"
+            app:met_floatingLabel="normal"
+            app:met_textColorHint="#89d2f3"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lstHistory"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+    <TextView
+        android:id="@+id/lblNoBook"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text="No any booked order matched!!!"
+        android:visibility="gone"/>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nice Car</string>
+    <string name="title_activity_select_wash_car_store">Wash Car Store Finder</string>
+    <string name="title_activity_sample_carousel_view">SampleCarouselViewActivity</string>
+    <string name="title_activity_account_manage">AccountManageActivity</string>
+    <string name="please_fill_up_information">Please fill up information</string>
+    <string name="title_update_account_successfully">Update account information successfully</string>
+    <string name="message_update_account_successfully">Update account information successfully</string>
+    <string name="confirm_must_match_password">Confirm must match password</string>
+    <string name="password_incorrect">Password incorrect</string>
+    <string name="update_password_succesfully">Update password succesffuly</string>
+    <string name="update_occurs_error">Update occurs error</string>
+    <string name="please_select_combo">Please select combo</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
